@@ -48,3 +48,5 @@ Cubic 11 目录中的文件名为 `OFL.txt`，其内容包含各来源自己的�
 [环境图记录](https://github.com/liny0219/moonwild/blob/main/docs/GENERATED_ART.md)列出的环境图由图像生成工具生成；[音频清单](https://github.com/liny0219/moonwild/blob/main/assets/audio/manifest.json)将 15 个 WAV 记录为项目确定性合成音频。它们与原作精灵分开记录。对应项目原创权利的 CC BY-NC 4.0 适用范围见 [LICENSING.md](https://github.com/liny0219/moonwild/blob/main/docs/LICENSING.md)，不借此宣称对不存在或不属于项目的权利拥有所有权。
 
 新增素材、字体、依赖或来源变化时，应同步更新此文件和对应清单。未列明、来源不明或许可未明的第三方文件不能自动视为已获得项目许可。
+
+The six-pose wolf biting sheets under `assets/sprites/derived/` are AI-assisted fan-work variations referencing the original wolf designs. Original source atlases remain unchanged. These new poses are not claimed to be original game attack frames, and no rights to the underlying designs are granted by the project licenses.
