@@ -50,3 +50,5 @@ Cubic 11 目录中的文件名为 `OFL.txt`，其内容包含各来源自己的�
 新增素材、字体、依赖或来源变化时，应同步更新此文件和对应清单。未列明、来源不明或许可未明的第三方文件不能自动视为已获得项目许可。
 
 The six-pose wolf biting sheets under `assets/sprites/derived/` are AI-assisted fan-work variations referencing the original wolf designs. Original source atlases remain unchanged. These new poses are not claimed to be original game attack frames, and no rights to the underlying designs are granted by the project licenses.
+
+The forest-stag body and lateral-antler sheets (`stag_actions_v3.png`, `stag_sweep_v2.png`) are AI-assisted fan-work poses based on the unchanged original forest-deer design. They supply this fan game's horn strike, lateral sweep, hoof stomp and grounded preparation, and are not extracted official attack animations. Original artwork/design rights remain with their respective owners; the project licenses do not relicense those third-party designs.
