@@ -9,6 +9,7 @@ Moonwild 是用于非商业学习交流的非官方同人游戏。项目的 Poly
 | 内容 | 工程内位置 | 具体来源、上传者及文件记录 |
 |---|---|---|
 | 欧休提 OT2 战斗与弓分层素材 | `assets/sprites/reference/ochette/` | [原始来源记录](https://github.com/liny0219/moonwild/blob/main/docs/ASSET_SOURCES.md)、[文件清单](https://github.com/liny0219/moonwild/blob/main/assets/sprites/reference/ochette/source_manifest.json) |
+| 洁卡莉特EX／Sigrid EX身体与Default／Crystal Spear分层源 | `assets/sprites/cotc/`、`assets/sprites/reference/jeclyte/`及v1／v2／v3开发运行派生资源 | [原始来源与开发装配记录](https://github.com/liny0219/moonwild/blob/main/docs/ASSET_SOURCES.md)；守护／引导的角度、手型和时序是项目装配，不是原作官方动作；角色与武器原设计权利不因分层编译改变 |
 | 大陆霸者角色与学者猫莱拉 | `assets/sprites/cotc/` | [角色说明](https://github.com/liny0219/moonwild/blob/main/docs/COTC_ASSETS.md)、[来源清单](https://github.com/liny0219/moonwild/blob/main/assets/sprites/cotc/sources.json) |
 | 普通怪物、精英与章节首领精灵 | `assets/sprites/reference/` 的其余原作目录 | [怪物说明](https://github.com/liny0219/moonwild/blob/main/docs/ORIGINAL_MONSTERS.md)、[来源清单](https://github.com/liny0219/moonwild/blob/main/assets/sprites/reference/sources.json) |
 
