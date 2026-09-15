@@ -21,10 +21,11 @@ The Spriters Resource 是本项目记录的社区归档来源，不是这些游�
 
 ## 字体
 
-`assets/pixel.ttf` 使用 Fusion Pixel Font。保留以下随项目已有的版权与许可文件；项目非商业许可不限制字体许可原本允许的使用。
+`assets/pixel.ttf` 使用 Fusion Pixel Font，并作为完整母版保留。运行子集 `assets/fonts/pixel_ui.ttf` 由该母版派生，修改后的字体名为 Moonwild Pixel UI；保留当前文本的原字形与度量，继续适用 SIL OFL 1.1。保留以下随项目已有的版权与许可文件；项目非商业许可不限制字体许可原本允许的使用。
 
 | 字体或组成来源 | 作者 / 原权利声明 | 保留的原文 |
 |---|---|---|
+| Moonwild Battle UI 480（Noto Sans SC 2.004-H2静态子集） | (c) 2014–2021 Adobe，原保留名Source；修改后字体已另命名 | [SIL OFL 1.1](assets/fonts/OFL.txt)、[母版hash／生成与覆盖](docs/BATTLE_UI_FONT.md) |
 | Fusion Pixel Font | Copyright (c) 2022, TakWolf | [SIL OFL 1.1](https://github.com/liny0219/moonwild/blob/main/assets/FONT-LICENSE.txt) |
 | Ark Pixel Font | Copyright (c) 2021, TakWolf | [SIL OFL 1.1](https://github.com/liny0219/moonwild/blob/main/assets/FONT-LICENSES/ark-pixel/OFL.txt) |
 | Galmuri | Copyright (c) 2019–2025 Lee Minseo | [SIL OFL 1.1](https://github.com/liny0219/moonwild/blob/main/assets/FONT-LICENSES/galmuri/LICENSE.txt) |
